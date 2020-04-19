@@ -4,11 +4,9 @@
   (:use #:cl)
   (:export #:dlist
 	   #:dlink
-	   #:insert-between
-	   #:insert-before
-	   #:insert-after
-	   #:insert-head
-	   #:insert-last
-	   #:remove-link
-	   #:unlink-head
-	   #:unlink-last))
+	   #:dl-between
+	   #:dl-remove
+	   #:dl-add
+	   #:dl-ger
+	   #:dl-del
+	   #:dl-unlink))
