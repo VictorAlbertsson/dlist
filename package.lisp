@@ -7,6 +7,6 @@
 	   #:dl-between
 	   #:dl-remove
 	   #:dl-add
-	   #:dl-ger
+	   #:dl-get
 	   #:dl-del
 	   #:dl-unlink))
