@@ -3,7 +3,8 @@
 (asdf:defsystem #:dlist
   :description "Simple and flexible doubly-linked list."
   :author "Victor Albertsson <victor.albertsson@live.se>"
-  :license "0.1.0"
+  :version "0.2.0"
+  :license "GPLv3"
   :serial t
   :components
   ((:file "package")
